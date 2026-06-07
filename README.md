@@ -1,4 +1,4 @@
-# ai-course-lab0
+# Intro to AI
 
 # Lab0 for Intro to AI course
 
@@ -9,4 +9,9 @@
 
 # Description
 
-This repository holds all my work for Lab 0 of my Introduction to AI course. It covers the foundation of AI, setting up a Python development environment, version control with Git, other practice exercises such as Pandas,NumPy, Matplotlib and Google Colab
+This repository encompasses the following areas of study:
+-Establishing a local Python environment using virtual environments and VS Code
+-Applying version control principles through Git and GitHub
+-Exploring cloud-based computing via Google Colab
+-Conducting data manipulation and analysis using NumPy and Pandas
+-Producing data visualizations with Matplotlib and Seaborn
